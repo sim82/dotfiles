@@ -22,3 +22,7 @@ set wrap "Wrap lines
 
 nnoremap <F4> :e %:p:s,.h$,.X123X,:s,.cpp$,.h,:s,.X123X$,.cpp,<CR>
 nnoremap <leader>nn :NERDTreeToggle<CR>
+
+" Colorscheme
+set background=dark
+colorscheme peaksea
