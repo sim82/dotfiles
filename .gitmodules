@@ -1,0 +1,6 @@
+[submodule "vim/pack/sim/start/ctrlp.vim"]
+	path = vim/pack/sim/start/ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "vim/pack/sim/start/vim-airline"]
+	path = vim/pack/sim/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
